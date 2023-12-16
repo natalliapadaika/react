@@ -1,0 +1,23 @@
+.App-main{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    font-size: 20px;
+    color: rgba(0, 0, 255, 0.29); 
+    font-weight: 400;
+    cursor: pointer;
+}
+button{
+    border-radius: 2px;
+    border: 1px solid #B3BAC1;
+    height: 41px;
+    width: 140px;
+    color: #122947; 
+    font-size: 16px;
+    text-align: center;
+font-style: normal;
+font-weight: 400;
+line-height: 125%;
+}

@@ -1,0 +1,53 @@
+.App-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+
+
+.App-header-img{
+    display: flex;
+    width: 30vh;
+    /* height: 100%; */
+    flex-direction: column;
+    justify-content: center;
+}
+
+.App-header-link{
+      font-size: 28px;
+    color: rgba(0, 0, 255, 0.29); 
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.App-header-li{
+    text-decoration: none;
+    font-size: 28px;
+    color: rgba(0, 0, 255, 0.29);
+    cursor: pointer;
+}
+
+li{
+    list-style: none; 
+    
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+nav{
+    /* display: flex; */
+    width: 100vh;
+    /* justify-content: flex-end; */
+   
+}
+
+/* .App-header-nav{
+    display: flex;
+    width: 100%;
+} */

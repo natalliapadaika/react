@@ -1,0 +1,16 @@
+.App-footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  color: rgba(0, 0, 255, 0.29);
+  font-weight: 400;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.App-footer-info {
+  width: 60%;
+}
+.App-footer-info-contacts {
+  width: 35%;
+}
